@@ -4,7 +4,7 @@
  * Plugin URI: https://your-website.com
  * Description: Display an image or GIF when a text is clicked, compatible with Madara theme.
  * Version: 1.0
- * Author: Your Name
+ * Author: Kevin Sampong
  * Author URI: https://your-website.com
  * License: GPL2
  */
