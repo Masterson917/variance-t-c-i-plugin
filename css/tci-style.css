@@ -1,0 +1,13 @@
+.tci-clickable-text {
+    color: #0073e6; /* Distinct blue color for the clickable text */
+    font-weight: bold; /* Make the text bold */
+    cursor: pointer; /* Show a pointer cursor when hovering over the text */
+}
+
+.tci-clicked-image {
+    display: none;
+    max-width: 100%; /* Make sure the image is responsive */
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid #ccc; /* Optional: Add a border around the image */
+}
